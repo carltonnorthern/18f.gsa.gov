@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 ruby "2.3.1"
 gem "redcarpet"
+gem "rubysl-rexml"
 gem "jekyll", '~> 3.1'
 gem "html-proofer"
 
